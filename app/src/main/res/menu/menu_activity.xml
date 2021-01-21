@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/alamat"
+        android:title="Alamat"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/kisahnabi"
+        android:title="Nabi Nabi Ulul Azmi"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:id="@+id/mukjizat"
+        android:title="Mukjizat"
+        app:showAsAction="never">
+
+    </item>
+
+</menu>
